@@ -54,7 +54,7 @@ int main()
 }
 
 
-mail kar heap sort,im sleeping, bye thanks love you too
+
 	for(int i=0;i<size;i++)
 	{
 		int c=i;
